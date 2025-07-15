@@ -1,11 +1,8 @@
 #Young's double slit experiment
 
-The three-body problem is a classic mechanics problem that looks at how three different objects would move over time only under the influence of each other's gravity. 
+Young's double-slit experiment, conducted by Thomas Young in 1801, demonstrated the wave nature of light. It showed that when light passed through two small slits, it created an interference pattern on a screen behind them, characterized by alternating bright (constructive interference) and dark (destructive interference) fringes. The pattern, resulting from the superposition of light waves, provived strong evidence that light was a wave, and not a series of particles.
 
-Unlike the two-body problem, which has a general analytical solution, the three-body problem does not have a general solution. Only certain [special-case solutions](https://en.wikipedia.org/wiki/Three-body_problem#/media/File:5_4_800_36_downscaled.gif) have been found.
-
-I was inspired to try and make a model after reading Liu Cixin's three-body problem series.
 
 # Example Output
 
-![Double-Slit gif](https://github.com/akid12345/Three-Body-Problem/blob/main/Three-Body-Problem.gif)
+![Double-Slit gif]([https://github.com/akid12345/Three-Body-Problem/blob/main/Three-Body-Problem.gif](https://github.com/akid12345/Young_twoslit/blob/main/TwoSlit.gif))
