@@ -5,4 +5,4 @@ Young's double-slit experiment, conducted by Thomas Young in 1801, demonstrated 
 
 # Example Output
 
-![Double-Slit gif]([https://github.com/akid12345/Three-Body-Problem/blob/main/Three-Body-Problem.gif](https://github.com/akid12345/Young_twoslit/blob/main/TwoSlit.gif))
+![Double-Slit gif](https://github.com/akid12345/Young_twoslit/blob/main/TwoSlit.gif)
